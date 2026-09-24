@@ -31,7 +31,7 @@
   <h2>Contact</h2>
   <p>Email: sandhiyasandhiya292007@gmail.com</p>
   <p>GitHub: <a href="https://github.com/sandhiyasandhiya292007-dotcom" target="_blank">github.com/sandhiyasandhiya292007-dotcom</a></p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">My LinkedIn Profile</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/sandhiya-r-54668938b/" target="_blank">Sandhiya R - LinkedIn</a></p>
 </section>
 </body>
 </html>
