@@ -26,8 +26,7 @@
   </section>
   <section>
     <h2>Projects</h2>
-    <ul><li>Project 1 - An ai powered platform that converts small business daily transactions into a digital credit score   </li><li>Project 2 - full stack business management system build for a hackathon</li></ul>
-  </section>
+    <ul><li>Project 1 - An ai powered platform that converts small business daily transactions into a digital credit score   </li><li>
   <section>
   <h2>Contact</h2>
   <p>Email: sandhiyasandhiya292007@gmail.com</p>
