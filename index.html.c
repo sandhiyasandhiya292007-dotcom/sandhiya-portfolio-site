@@ -29,8 +29,10 @@
     <ul><li>Project 1 - An ai powered platform that converts small business daily transactions into a digital credit score   </li><li>Project 2 - full stack business management system build for a hackathon</li></ul>
   </section>
   <section>
-    <h2>Contact</h2>
-    <p>Email: sandhiyasandhiya292007@gmail.com</p>
-  </section>
+  <h2>Contact</h2>
+  <p>Email: sandhiyasandhiya292007@gmail.com</p>
+  <p>GitHub: <a href="https://github.com/sandhiyasandhiya292007-dotcom" target="_blank">github.com/sandhiyasandhiya292007-dotcom</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">My LinkedIn Profile</a></p>
+</section>
 </body>
 </html>
